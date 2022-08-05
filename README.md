@@ -4,7 +4,7 @@ Hi 👋 My name is Juan R. De Leon
 Junior Programmer
 -----------------
 
-C.E.O. de Barberos, StartUps de desarrollo de aplicaciones móviles para barberias, un marketplace de barberias.
+C.E.O. de Barberos App, StartUps de desarrollo de aplicaciones móviles para barberias, un marketplace de barberias.
 
 * 🌍  I'm based in Panamá
 * 🖥️  See my portfolio at [My Portfolio](http://juanlab.com)
