@@ -9,8 +9,8 @@ C.E.O. de Barberos App, StartUps de desarrollo de aplicaciones móviles para bar
 * 🌍  I'm based in Panamá
 * 🖥️  See my portfolio at [My Portfolio](http://juanlab.com)
 * ✉️  You can contact me at [juanrdlo25@gmail.com](mailto:juanrdlo25@gmail.com)
-* 🚀  I'm currently working on [Asap507](http://asap507.com)
-* 🧠  I'm learning Platzi
+* 🚀  I'm currently working on [Freelancer]
+* 🧠  I'm learning Platzi, Universidad de Panamá
 
 <a href="https://www.twitter.com/juanrdlo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/juanrdlo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
